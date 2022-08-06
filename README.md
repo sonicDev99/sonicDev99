@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm  <a href="https://munjere.github.io/tech">MilesJarvis!</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left">Hi there, I'm  <a href="https://munjere.github.io/tech">Miles Jarvis!</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="left">I'm a Student, Undergraduate and Software Developer.</h3>
 
