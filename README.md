@@ -74,7 +74,7 @@
 <a href="https://github.com/sonicDev99/github-readme-activity-graph"><img alt="Munjere Praise Wacham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonicDev99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-| ![Munjere's github stats](https://github-readme-stats.vercel.app/api?username=sonicDev99&show_icons=true&theme=tokyonight) | ![Anurag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonicDev99&theme=tokyonight) |
+| ![Munjere's github stats](https://github-readme-stats.vercel.app/api?username=sonicDev99&show_icons=true&theme=tokyonight) | ![Munjere's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonicDev99&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonicDev99&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sonicDev99&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
