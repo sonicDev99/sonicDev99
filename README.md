@@ -66,11 +66,7 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/sonicDev99/github-readme-stats"><img alt="Munjere Praise Wacham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sonicDev99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sonicDev99/github-readme-stats"><img alt="Munjere Praise Wacham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonicDev99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
 
 <br/>
 <br/>
@@ -78,7 +74,11 @@
 <a href="https://github.com/sonicDev99/github-readme-activity-graph"><img alt="Munjere Praise Wacham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sonicDev99&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+| ![Munjere's github stats](https://github-readme-stats.vercel.app/api?username=sonicDev99&show_icons=true&theme=tokyonight) | ![Anurag's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonicDev99&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonicDev99&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=sonicDev99&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
 
 ## ❤ Views and Followers
 
@@ -86,3 +86,7 @@
     <img src="https://komarev.com/ghpvc/?username=sonicDev99">
 </a>
 <a href="https://github.com/sonicDev99?tab=followers"><img src="https://img.shields.io/github/followers/sonicDev99?label=Followers&style=social" alt="GitHub Badge"></a>
+
+---
+
+Made with 💖: [Munjere Praise](https://github.com/sonicDev99)
