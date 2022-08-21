@@ -73,4 +73,4 @@
 
 ---
 
-Made with 💖: [Munjere Praise](https://github.com/sonicDev99)
+Made with 💖: [Munjere Praise Wacham](https://github.com/sonicDev99)
