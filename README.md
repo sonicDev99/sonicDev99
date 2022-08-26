@@ -24,10 +24,10 @@
 
 <p align="left">
 <!-- need to update twitter and linkedin accounts-->
-<a href = "https://www.linkedin.com//"><img src="https://img.icons8.com/fluent/35/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/munjere-praise-wacham-b3a6b2249/"><img src="https://img.icons8.com/fluent/35/000000/linkedin.png"/></a>
 <!--<a href = "https://www.facebook.com//"><img src="https://img.icons8.com/doodle/35/000000/facebook-new.png"/></a>, -->
-<a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/35/000000/twitter.png"/></a>
-<a href = "https://telegram.org/"><img src="https://img.icons8.com/color/35/000000/telegram-app--v1.png"/></a>
+<a href = "https://twitter.com/clevertech101/"><img src="https://img.icons8.com/fluent/35/000000/twitter.png"/></a>
+<a href = "https://telegram.org/Miles_Jarvis"><img src="https://img.icons8.com/color/35/000000/telegram-app--v1.png"/></a>
 <a href = "https://www.instagram.com/miles_jarvis__/"><img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/></a>
 
 </p>
