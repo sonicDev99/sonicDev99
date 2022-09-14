@@ -7,6 +7,7 @@
 ## 🙋‍♂️ About Me
 
 -   🔭 I’m currently working on **Personal Project**
+  <img align="right" width="380" alt="coding"  src="https://user-images.githubusercontent.com/86390606/190271816-f2374e79-d5c9-41b5-b724-e976f763750f.gif">
 
 -   🌱 I’m currently learning **Full Stack Development**
 
@@ -17,6 +18,8 @@
 -   🥅 2022 Goals: Build more **Personal Projects**
 
 -   ⚡ Fun fact **I play video games and listen to music.**
+
+
 
 <br/>
 
