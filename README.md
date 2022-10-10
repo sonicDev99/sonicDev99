@@ -1,5 +1,5 @@
 ![dev-tech](https://user-images.githubusercontent.com/86390606/191811117-7980d057-894b-454a-9da8-fd7b236d0cec.jpg)
-<h1 align="left">Hi there, I'm  <a href="https://munjere.github.io/tech">Munjere!</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left">Hi there, I'm  <a href="https://munjere.vercel.app">Munjere!</a><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="left">I'm a Student, Undergraduate and Software Developer.</h3>
 
